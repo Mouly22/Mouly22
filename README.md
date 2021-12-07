@@ -19,16 +19,17 @@
 [4]: https://discord.com/channels/@me
 
 
-###Technologies and tools I use:
+### Technologies and tools I use:
 
 [![alt text][1.2]][1]
 [![alt text][2.2]][2]
 [![alt text][3.2]][3]
 [![alt text][4.2]][4]
-[![alt text][5.2]][5]
-[![alt text][6.2]][6]
-[![alt text][7.2]][7]
-[![alt text][8.2]][8]
+
+[![alt text][1.3]][1]
+[![alt text][2.3]][2]
+[![alt text][3.3]][3]
+[![alt text][4.3]][4]
 
 
 
@@ -37,10 +38,11 @@
 [2.2]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [3.2]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [4.2]:https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-[5.2]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-[6.2]:https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-[7.2]: https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
-[8.2]: https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
+
+[1.3]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[2.3]:https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[3.3]: https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
+[4.3]: https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
 
 
 
