@@ -61,18 +61,7 @@
   <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
 
-### Coding Stats
 
-```text
-Python   6 hrs   █████████████████████████   99.87 % 
-```
-
-
-
-
-
-  
- 
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <!--[Mouly22's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&theme=xcode)>
