@@ -1,22 +1,22 @@
 ### Hi there, I am Mouly 
 
 ## I am a student
-- I'm currently working on 
-- I'm currently learning
-- I'm looking forward to co;;aborate with others
-- 2021 goals:
-- Fun fact:
+- I'm currently working on my academics
+- I'm currently learning Pytrhon
+- I'm looking forward to collaborate with others
 
 ### Connect with me:
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+[![alt text][4.1]][4]
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[4.1]: https://imgur.com/gallery/N8ib8iK 
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -28,4 +28,5 @@
 [1]: https://twitter.com/AbiraAzmary
 [2]: https://www.facebook.com/profile.php?id=100007779378903
 [3]: https://github.com/Mouly22
+[4]: https://discord.com/channels/@me
 
