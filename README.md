@@ -1,5 +1,7 @@
-### Hi there! I am Umme Abira Azmary Mouly 
+<h1 align="center">Hi there! <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Umme Abira Azmary Mouly</h1> 
+
 ### About me:
+
 - I am a first year student at BRAC University
 - Currently I am learning Python
 - I am looking forward to learn new things
