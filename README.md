@@ -2,9 +2,9 @@
 
 <h3> About me: </h3>
 
-<h2>- I am a first year student at BRAC University</h2>
-<h2>- Currently I am learning Python</h2>
-<h2>- I am looking forward to learn new things</h2>
+- I am a first year student at BRAC University
+- Currently I am learning Python
+- I am looking forward to learn new technologies
 
 
 ### Connect with me:
