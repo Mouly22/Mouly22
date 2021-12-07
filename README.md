@@ -3,10 +3,10 @@
 
 <h2> About me: 👩🏻‍💻 </h2>
 
-- 💁🏻‍♀️I am a first year student at BRAC University
-- 🐍Currently I am learning Python
-- 🚀I am passionate about Data Science, Machine Learning, Artificial Intelligence
-- 💜I am looking forward to learn new technologies
+- 💁🏻‍♀️ I am a first year student at BRAC University
+- 🐍 Currently I am learning Python
+- 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
+- 💜 I am looking forward to learn new technologies
 
 
 ### Connect with me:🥳
