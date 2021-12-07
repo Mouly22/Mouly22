@@ -17,7 +17,11 @@
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[4.1]: https://camo.githubusercontent.com/12186d388639617a2e279618c7692d60f5cc181b9a408689abcb5e5e402b1ab3/68747470733a2f2f646973636f72646170702e636f6d2f6173736574732f34313438346439326338373666373662323063376637343632323165383135312e737667
+[4.1]: https://iconscout.com/icon/discord-3215389
+
+
+
+
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
