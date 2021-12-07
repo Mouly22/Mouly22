@@ -4,6 +4,7 @@
 
 - I am a first year student at BRAC University
 - Currently I am learning Python
+- I am passionate about Data Science, Machine Learning, Artificial Intelligence
 - I am looking forward to learn new technologies
 
 
@@ -55,10 +56,23 @@
 [3.3]: https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
 [4.3]: https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
 
-<html>
-<body>
+
 <p>
   <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
-</body>
-</html>
+
+### Coding Stats
+
+```text
+Python   6 hrs   █████████████████████████   99.87 % 
+```
+
+
+
+
+
+  
+ 
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <!--[Mouly22's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&theme=xcode)>
