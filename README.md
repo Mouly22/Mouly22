@@ -1,8 +1,9 @@
-### Hi there, I am Mouly 
+### Hi there, I am Mouly
 
 ## I am a student
-- I'm currently working on my academics
-- I'm currently learning Pytrhon
+
+- I'm currently working on my academics 
+- I'm currently learning Python
 - I'm looking forward to collaborate with others
 
 ### Connect with me:
