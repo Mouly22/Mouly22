@@ -1,10 +1,18 @@
 ### Hi there! I am Umme Abira Azmary Mouly 
+### About me:
+- I am a first year student at BRAC University
+- Currently I am learning Python
+- I am looking forward to learn new things
+
+
 ### Connect with me:
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
+[![alt text][5.1]][5]
+
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [2.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
@@ -17,6 +25,7 @@
 [2]: https://www.facebook.com/profile.php?id=100007779378903
 [3]: https://github.com/Mouly22
 [4]: https://discord.com/channels/@me
+[5]: https://medium.com/@abiraazmary22
 
 
 ### Technologies and tools I use:
@@ -44,10 +53,10 @@
 [3.3]: https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
 [4.3]: https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
 
-
-
-https://github-readme-stats.vercel.app/api?username={Mouly22}
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={Mouly22}
-
-https://github-readme-streak-stats.herokuapp.com/?user={Mouly22}
+<html>
+<body>
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+</body>
+</html>
