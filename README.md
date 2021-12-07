@@ -1,15 +1,15 @@
-<h1>Hi there! <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+<h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
  I'm Umme Abira Azmary Mouly</h1> 
 
-<h2> About me: </h2>
+<h2> About me: 👩🏻‍💻 </h2>
 
-- I am a first year student at BRAC University
-- Currently I am learning Python
-- I am passionate about Data Science, Machine Learning, Artificial Intelligence
-- I am looking forward to learn new technologies
+- 💁🏻‍♀️ I am a first year student at BRAC University
+- 🐍 Currently I am learning Python
+- 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
+- 💜 I am looking forward to learn new technologies
 
 
-### Connect with me:
+### Connect with me:🥳
 
 <a href="https://twitter.com/AbiraAzmary">
   <img align="left" alt="AbiraAzmary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,7 +27,7 @@
 
 
 
-### Technologies and tools I use:
+### Technologies and tools I use:⛓
 
 [![alt text][1.2]][1]
 [![alt text][2.2]][2]
@@ -52,7 +52,7 @@
 [3.3]: https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
 [4.3]: https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
 
-
+<h2> 📈 My GitHub Stats </h2>
 <p>
   <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
