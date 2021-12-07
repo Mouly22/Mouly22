@@ -57,7 +57,7 @@
 [3.3]: https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
 [4.3]: https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
 
-📈 My GitHub Stats
+<h2> 📈 My GitHub Stats </h2>
 <p>
   <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
