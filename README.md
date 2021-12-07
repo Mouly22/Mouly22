@@ -1,11 +1,9 @@
 ### Hi there, I am Umme Abira Azmary
 
 ## I am a student
-- I'm currently working on 
+- I'm currently working on my academics 
 - I'm currently learning Python
 - I'm looking forward to collaborate with others
-- 2021 goals:
-- Fun fact:
 
 ### Connect with me:
 
