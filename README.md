@@ -11,25 +11,20 @@
 
 ### Connect with me:
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
+<a href="https://twitter.com/AbiraAzmary">
+  <img align="left" alt="AbiraAzmary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/">
+  <img align="left" alt="Mouly's Linkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="Mail to: abiraazmary22@gmail.com ">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://discord.com/channels/@me">
+  <img align="left" alt="Mouly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://medium.com/@abiraazmary22" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abiraazmary22" height="22" width="22" /></a>
 
-
-[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[2.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-[3.1]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[4.1]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[5.1]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-
-
-[1]: https://twitter.com/AbiraAzmary
-[2]: https://www.facebook.com/profile.php?id=100007779378903
-[3]: https://github.com/Mouly22
-[4]: https://discord.com/channels/@me
-[5]: https://medium.com/@abiraazmary22
 
 
 ### Technologies and tools I use:
