@@ -1,6 +1,7 @@
-<h1>Hi there! <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Umme Abira Azmary Mouly</h1> 
+<h1>Hi there! <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+ I'm Umme Abira Azmary Mouly</h1> 
 
-<h3> About me: </h3>
+<h2> About me: </h2>
 
 - I am a first year student at BRAC University
 - Currently I am learning Python
