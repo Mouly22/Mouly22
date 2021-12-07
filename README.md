@@ -1,10 +1,10 @@
-<h1 align="center">Hi there! <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Umme Abira Azmary Mouly</h1> 
+<h1>Hi there! <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Umme Abira Azmary Mouly</h1> 
 
-### About me:
+<h3> About me: </h3>
 
-- I am a first year student at BRAC University
-- Currently I am learning Python
-- I am looking forward to learn new things
+<h2>- I am a first year student at BRAC University</h2>
+<h2>- Currently I am learning Python</h2>
+<h2>- I am looking forward to learn new things</h2>
 
 
 ### Connect with me:
@@ -58,7 +58,7 @@
 <html>
 <body>
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
 </body>
 </html>
