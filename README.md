@@ -23,7 +23,7 @@
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Mouly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://medium.com/@abiraazmary22" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abiraazmary22" height="22" width="22" /></a>
+<a href="https://dev.to/mouly22" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abiraazmary22" height="22" width="22" /></a>
 
 <br>
 
@@ -37,6 +37,6 @@
 </p>
 
 
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mouly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <!--[Mouly22's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&theme=xcode)>
