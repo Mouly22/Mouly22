@@ -5,7 +5,7 @@
 
 - 💁🏻‍♀️ I am a first year student at BRAC University
 - 🐍 Currently I am learning Python, Microsoft Azure
-- Approver at CNCF glossary Bengali Localization [https://github.com/cncf/glossary]
+- 🪄 Approver at CNCF glossary Bengali Localization [https://github.com/cncf/glossary]
 - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
 
 
