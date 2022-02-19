@@ -4,7 +4,8 @@
 <h2> About me: 👩🏻‍💻 </h2>
 
 - 💁🏻‍♀️ I am a first year student at BRAC University
-- 🐍 Currently I am learning Python
+- 🐍 Currently I am learning Python, Microsoft Azure
+- Approver at CNCF glossary Bengali Localization 
 - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
 
 
