@@ -7,7 +7,7 @@
 - 🐍 Currently I am learning Python, Microsoft Azure
 - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
 
-<h2> Open Source Contributions: </h2>
+### Open Source Contributions:
 - 🪄 Maintainer at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 
 ### Connect with me:🥳
