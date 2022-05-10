@@ -3,8 +3,8 @@
 
 <h2> About me: 👩🏻‍💻 </h2>
 
-- 💁🏻‍♀️ I am a first year student at BRAC University
-- 🐍 Currently I am learning Python, Microsoft Azure
+- 💁🏻‍♀️ I am a second year student at BRAC University
+- 🐍 Currently I am learning Python, Machine Learning
 - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
 
 ### Open Source Contributions:
