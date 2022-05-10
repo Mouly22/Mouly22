@@ -8,7 +8,7 @@
 - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
 
 ### Open Source Contributions:
-- 🪄 Maintainer at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
+- 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 
 ### Connect with me:🥳
 
