@@ -36,7 +36,6 @@
 </p>
 
 
-![Mouly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&theme=radical)
 [![Mouly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&show_icons=true&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <!--[Mouly22's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&theme=xcode)>
