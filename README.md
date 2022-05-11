@@ -1,15 +1,15 @@
-<h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
- I'm Umme Abira Azmary Mouly</h1> 
+ <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+ I'm Umme Abira Azmary Mouly </h1> 
 
 <h2> About me: 👩🏻‍💻 </h2>
 
 - 💁🏻‍♀️ I am a second year student at BRAC University
-- 🐍 Currently I am learning Python, Machine Learning
+- 🎓 Currently I am learning Python, Machine Learning
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
 
 
-### Connect with me:🥳
+### Connect with me:😇
 
 <a href="https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/">
   <img align="left" alt="Mouly's Linkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -29,10 +29,6 @@
 
 ### Technologies and tools I use:⛓
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src = "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/aws%20-%23013243.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
-
-### Organizations:<a href=https://discord.gg/jeQDgQv4>
-  <img align="left" alt="Mouly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-  <br>
 
 <h2> 📈 My GitHub Stats </h2>
 <p>
