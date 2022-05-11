@@ -5,14 +5,9 @@
 
 - 💁🏻‍♀️ I am a second year student at BRAC University
 - 🐍 Currently I am learning Python, Machine Learning
-- 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
-
-### Preffered Open Source Contributions:
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
--    Contributed in [cncf/glossary](https://github.com/cncf/glossary/tree/dev-bn)
--    Contibuted in [kubernetes/website](https://github.com/kubernetes/website/tree/dev-1.23-bn.1)
--    Contributed in [geekcomputers](https://github.com/geekcomputers/Python)
--    Contributed in [tech-companies-in-bangladesh](https://github.com/Mouly22/tech-companies-in-bangladesh)
+- - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
+
 
 ### Connect with me:🥳
 
