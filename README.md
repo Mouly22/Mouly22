@@ -32,7 +32,7 @@
 
 <h2> 📈 My GitHub Stats </h2>
 <p>
-  <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=dark" width="450"></a>
+  <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=radical" width="450"></a>
 </p>
 
 
