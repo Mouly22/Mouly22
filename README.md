@@ -5,7 +5,7 @@
 <div align="center">
   <br>
   <br>
- <img src=""https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" width="600px"><
+ <img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" "width:500px;height:300px;">
   <br>
   <br>
 </div>
