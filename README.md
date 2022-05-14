@@ -3,7 +3,7 @@
 
 <h2> About me: 👩🏻‍💻 </h2>
 
-<img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" alt="Computer and girl" style="width:100px;height:78px;" align = "center">
+<img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" alt="Computer and girl" style="width:500px;height:200px;" align = "center;">
 
 - 💁🏻‍♀️ I am a second year student at BRAC University
 - 🎓 Currently I am learning Python, Machine Learning
