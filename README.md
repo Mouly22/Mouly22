@@ -3,7 +3,7 @@
 
 <h2> About me: 👩🏻‍💻 </h2>
 
-<img src="https://www.freepik.com/premium-vector/womens-freelance-arabian-girl-hijab-with-laptop-sitting-lawn-park-concept-illustration-working-outdoors-studying-communication-healthy-lifestyle-illustration-flat-style_7314842.htm" alt="Computer and girl" style="width:48px;height:48px;">
+<img src="https://www.freepik.com/premium-vector/womens-freelance-arabian-girl-hijab-with-laptop-sitting-lawn-park-concept-illustration-working-outdoors-studying-communication-healthy-lifestyle-illustration-flat-style_7314842.html" alt="Computer and girl" style="width:48px;height:48px;">
 
 - 💁🏻‍♀️ I am a second year student at BRAC University
 - 🎓 Currently I am learning Python, Machine Learning
