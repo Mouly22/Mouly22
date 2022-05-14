@@ -2,18 +2,10 @@
  I'm Umme Abira Azmary Mouly </h1> 
 
 <h2> About me: 👩🏻‍💻 </h2>
-<div align="center">
-  <br>
-  <br>
- <img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" "width:200px;height:100px;">
-  <br>
-  <br>
+
+<div align="center>
+<img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" alt="Computer and girl" style="align: center;width:500px;height:300px;">
 </div>
-
-
-
-###<img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" alt="Computer and girl" style="align: center;width:500px;height:300px;">
-
 - 💁🏻‍♀️ I am a second year student at BRAC University
 - 🎓 Currently I am learning Python, Machine Learning
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
