@@ -25,7 +25,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://discord.com/channels/@me">
-  <img align="left" alt="Mouly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" logocolor ="white" />
+  <img align="left" alt="Mouly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>
 </a>
 <a href="https://dev.to/mouly22" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abiraazmary22" height="22" width="22" /></a>
 
@@ -36,7 +36,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/-@abiraazmary22-black?style=plastic&labelColor=000000&logo=DEV.to&link=https://dev.to/mouly22/)](https://dev.to/mouly22)
 [![Facebook Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100007779378903/)](https://https://www.facebook.com/profile.php?id=100007779378903/)
 
-[![Discord Badge](https://img.shields.io/badge/-Mouly#4276-purple?style=plastic&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/)](https://discord.com/channels/@me)
+[![Discord Badge](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg/badge/-Mouly#4276-purple?style=plastic&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/)](https://discord.com/channels/@me)
 [![Instagram Badge](https://img.shields.io/badge/-_abiraazmary_-pink?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_abiraazmary_//)](https://www.instagram.com/_abiraazmary_/)
 
 <br>
