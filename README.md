@@ -14,30 +14,13 @@
 
 
 ### Connect with me:😇
-
-<a href="https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/">
-  <img align="left" alt="Mouly's Linkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/AbiraAzmary">
-  <img align="left" alt="AbiraAzmary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="Mail to: abiraazmary22@gmail.com ">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://discord.com/channels/@me">
-  <img align="left" alt="Mouly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>
-</a>
-<a href="https://dev.to/mouly22" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abiraazmary22" height="22" width="22" /></a>
-
-
-[![Twitter Badge](https://img.shields.io/badge/-AbiraaMouly-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AbiraaMouly/)](https://twitter.com/AbiraaMouly/)
-[![Gmail Badge](https://img.shields.io/badge/-abiraazmary22@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:abiraazmary22@gmail.com)](mailto:abiraazmary22@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)
+[![Gmail Badge](https://img.shields.io/badge/-abiraazmary22@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:abiraazmary22@gmail.com)](mailto:abiraazmary22@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-AbiraaMouly-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AbiraaMouly/)](https://twitter.com/AbiraaMouly/)
 [![Dev.to Badge](https://img.shields.io/badge/-@abiraazmary22-black?style=plastic&labelColor=000000&logo=DEV.to&link=https://dev.to/mouly22/)](https://dev.to/mouly22)
 [![Facebook Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100007779378903/)](https://https://www.facebook.com/profile.php?id=100007779378903/)
 [![Instagram Badge](https://img.shields.io/badge/-_abiraazmary_-ff69b4?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_abiraazmary_//)](https://www.instagram.com/_abiraazmary_/)
 
-<br>
 
 ### Technologies and tools I use:⛓
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
