@@ -7,7 +7,7 @@
 <img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" alt="Computer and girl" style="align: center;width:500px;height:300px;">
 </div>
 
-- 💁🏻‍♀️ I am a second year student at BRAC University
+- 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
 - 🎓 Currently I am learning Python, Microsoft Azure, Machine Learning
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
