@@ -35,7 +35,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/--blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiraazmary/)](https://www.linkedin.com/in/moshfiqrony/)
 [![Dev.to Badge](https://img.shields.io/badge/-@abiraazmary22-black?style=plastic&labelColor=000000&logo=DEV.to&link=https://dev.to/mouly22/)](https://medium.com/@abiraazmary22)
 [![Gmail Badge](https://img.shields.io/badge/-abiraazmary22@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:abiraazmary22@gmail.com)](mailto:abiraazmary22@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Mouly#4276-purple?style=plastic&logo=Discord&logoColor=white&link=https://discord.com/Mouly#4276/)](https://discord.com/Mouly#4276)
+[![Discord Badge](https://img.shields.io/badge/-Mouly#4276-purple?style=plastic&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/)](https://discord.com/channels/@me)
 
 
 
