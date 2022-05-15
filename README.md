@@ -19,7 +19,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-AbiraaMouly-informational?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AbiraaMouly/)](https://twitter.com/AbiraaMouly/)
 [![Instagram Badge](https://img.shields.io/badge/-_abiraazmary_-ff69b4?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_abiraazmary_//)](https://www.instagram.com/_abiraazmary_/)
 [![Dev.to Badge](https://img.shields.io/badge/-@abiraazmary22-black?style=plastic&labelColor=white&logo=DEV.to&link=https://dev.to/mouly22/)](https://dev.to/mouly22)
-[![Facebook Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blueviolet?style=plastic&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100007779378903/)](https://https://www.facebook.com/profile.php?id=100007779378903/)
+[![Facebook Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100007779378903/)](https://https://www.facebook.com/profile.php?id=100007779378903/)
 
 ### Technologies and tools I use:⛓
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
