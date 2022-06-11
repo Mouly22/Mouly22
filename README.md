@@ -10,7 +10,7 @@
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
 - 🎓 Currently I am learning Python, Microsoft Azure, Machine Learning
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
-- 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence
+- 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence Cloud Computing, BLockchain
 
 
 ### Connect with me:😇
