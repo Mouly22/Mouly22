@@ -22,7 +22,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/Umme_Abira_Azmary/)](https://www.facebook.com/profile.php?id=100007779378903/)
 
 
-### Technologies and tools I use:⛓
+### Technologies and tools I use:⛓ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
