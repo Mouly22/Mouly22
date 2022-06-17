@@ -22,7 +22,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/Umme_Abira_Azmary/)](https://www.facebook.com/profile.php?id=100007779378903/)
 
 
-### Technologies and tools I use:⛓ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Technologies and tools I use: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 
-<h2> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"> 📈 My GitHub Stats</h2>
+<h2> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> 📈 My GitHub Stats</h2>
 <p>
   <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=radical" width="450"></a>
 </p>
