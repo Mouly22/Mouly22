@@ -1,7 +1,7 @@
  <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
- I'm Umme Abira Azmary Mouly </h1> 
+ I'm Umme Abira Azmary Mouly </h1>
 
-<h2> About me: 👩🏻‍💻 </h2>
+<h2> About me: </h2> **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <div align="center">
 <img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" alt="Computer and girl" style="align: center;width:500px;height:300px;">
