@@ -35,7 +35,8 @@
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 
-<h2> 📈 My GitHub Stats</h2>
+<h2> 📈 My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "40"> </h2>
+
 <p>
   <a align = "center" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=radical" width="450"></a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
 </p>
