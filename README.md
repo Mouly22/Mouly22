@@ -8,7 +8,7 @@
 </div>
 
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
-- 🎓 Currently I am learning Python, Microsoft Azure, Machine Learning <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
+- 🎓 Currently I am learning Python, Microsoft Azure, Machine Learning <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="20">
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 - 🚀 I am passionate about Data Science, Machine Learning, Artificial Intelligence Cloud Computing, BLockchain 
 
