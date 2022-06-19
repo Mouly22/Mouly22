@@ -4,10 +4,9 @@
 <h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 <div align="left">
-<img src="https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif" alt="Computer and girl" style="align: center;width:400px;height:200px;">
+<img src="https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif" alt="Computer and girl" style="align: center;width:200px;height:100px;">
 </div>
 
-<img src= "https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif" width = "200"> </h2
 
 
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
