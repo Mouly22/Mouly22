@@ -4,8 +4,11 @@
 <h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 <div align="left">
-<img src="https://github.com/Mouly22/Mouly22/blob/main/Screenshot%202022-05-15%20at%201.23.31%20AM.png" alt="Computer and girl" style="align: center;width:400px;height:200px;">
+<img src="https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif" alt="Computer and girl" style="align: center;width:400px;height:200px;">
 </div>
+
+<img src= "https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif" width = "200"> </h2
+
 
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
 - 🎓 Currently I am learning Python, Microsoft Azure, Machine Learning
