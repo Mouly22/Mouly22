@@ -3,11 +3,6 @@
 
 <h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
-<div align="center">
-<img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' alt="Computer and girl" width = '350' align = 'center'>
-</div>
-
-
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
 - 🎓 Currently I am learning Python, Microsoft Azure, Machine Learning
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
