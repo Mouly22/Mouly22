@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)
 [![Gmail Badge](https://img.shields.io/badge/-abiraazmary22@gmail.com-red?style=plastic&logo=Gmail&logoColor=white&link=mailto:abiraazmary22@gmail.com)](mailto:abiraazmary22@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-AbiraaMouly-informational?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AbiraaMouly/)](https://twitter.com/AbiraaMouly/)
-[![Instagram Badge](https://img.shields.io/badge/-_abiraazmary_-ff69b4?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_abiraazmary_//)](https://www.instagram.com/_abiraazmary_/)
+[![Kaggle Badge](https://img.shields.io/badge/-_abiraazmary_-ff69b4?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_abiraazmary_//)](https://www.instagram.com/_abiraazmary_/)
 [![Dev.to Badge](https://img.shields.io/badge/-@abiraazmary22-black?style=plastic&labelColor=white&logo=DEV.to&link=https://dev.to/mouly22/)](https://dev.to/mouly22)
 [![Facebook Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/Umme_Abira_Azmary/)](https://www.facebook.com/profile.php?id=100007779378903/)
 
