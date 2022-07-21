@@ -4,7 +4,7 @@
 <h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
-- 🎓 Currently including my academics, I am learning Python, Deep Learning
+- 🎓 Currently I am learning Python, Deep Learning
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 - 🚀 I am passionate about Deep Learning, Machine Learning, Artificial Intelligence Cloud Computing, BLockchain 
 
