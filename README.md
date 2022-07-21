@@ -6,7 +6,7 @@
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
 - 🎓 Currently I am learning Python, Deep Learning
 - 🪄 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
-- 🚀 I am passionate about Deep Learning, Machine Learning, Artificial Intelligence Cloud Computing, BLockchain 
+- 🚀 I am passionate about Deep Learning, Machine Learning, Artificial Intelligence, Cloud Computing, Blockchain 
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
