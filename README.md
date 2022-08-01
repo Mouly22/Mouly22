@@ -9,7 +9,7 @@
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+(https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 [![Kaggle Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-20BEFFstyle=plastic&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/abiraazmary/)](https://www.kaggle.com/abiraazmary)
 [![Linkedin Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)
