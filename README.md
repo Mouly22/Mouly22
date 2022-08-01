@@ -11,7 +11,7 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)
-[![Kaggle Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-20BEFF?style=plastic&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/abiraazmary/)](https://www.kaggle.com/abiraazmary)
+[![Kaggle Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-green?style=plastic&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/abiraazmary/)](https://www.kaggle.com/abiraazmary)
 [![Gmail Badge](https://img.shields.io/badge/-abiraazmary22@gmail.com-red?style=plastic&logo=Gmail&logoColor=white&link=mailto:abiraazmary22@gmail.com)](mailto:abiraazmary22@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-AbiraaMouly-informational?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AbiraaMouly/)](https://twitter.com/AbiraaMouly/)
 [![Kaggle Badge](https://img.shields.io/badge/-_abiraazmary_-ff69b4?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_abiraazmary_//)](https://www.instagram.com/_abiraazmary_/)
