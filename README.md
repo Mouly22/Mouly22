@@ -31,7 +31,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
-![Kaggle Badge](https://img.shields.io/badge/-Kaggle-lightgreen?style=plastic&logo=Kaggle&logoColor=white)
+![Kaggle Badge](https://img.shields.io/badge/-Kaggle-green?style=plastic&logo=Kaggle&logoColor=white)
 
 <h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "30"> My GitHub Stats </h2>
 
