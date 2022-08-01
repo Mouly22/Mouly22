@@ -11,7 +11,7 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)
-[![Kaggle Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-green?style=plastic&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/abiraazmary/)](https://www.kaggle.com/abiraazmary)
+[![Kaggle Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-20BEFF?style=plastic&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/abiraazmary/)](https://www.kaggle.com/abiraazmary)
 [![Gmail Badge](https://img.shields.io/badge/-abiraazmary22@gmail.com-red?style=plastic&logo=Gmail&logoColor=white&link=mailto:abiraazmary22@gmail.com)](mailto:abiraazmary22@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-AbiraaMouly-informational?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AbiraaMouly/)](https://twitter.com/AbiraaMouly/)
 [![Kaggle Badge](https://img.shields.io/badge/-_abiraazmary_-ff69b4?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_abiraazmary_//)](https://www.instagram.com/_abiraazmary_/)
@@ -31,7 +31,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
-![Kaggle Badge](https://img.shields.io/badge/-Kaggle-green?style=plastic&logo=Kaggle&logoColor=white)
+![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white)
 
 <h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "30"> My GitHub Stats </h2>
 
