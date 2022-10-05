@@ -5,6 +5,7 @@
 
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
 - 🎓 Currently I am learning Python, Deep Learning
+- Approver at CNCF glossary Bengali Localization
 - 🚀 I am passionate about Deep Learning, Machine Learning, Artificial Intelligence, Cloud Computing, Blockchain 
 
 
