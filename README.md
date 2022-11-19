@@ -4,9 +4,8 @@
 <h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 - 💁🏻‍♀️ I am a second year student at BRAC University,Bangladesh
-- 🎓 Currently I am learning Python, Deep Learning
+- 🎓 Currently I am learning Python, Go, OpevCv, Audrino, Deep Learning
 -  🎉 Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
-- 🚀 I am passionate about Deep Learning, Machine Learning, Artificial Intelligence, Cloud Computing, Blockchain 
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
@@ -30,8 +29,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 
 
 <h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "30"> My GitHub Stats </h2>
