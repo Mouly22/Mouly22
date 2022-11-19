@@ -3,7 +3,7 @@
 
 <h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
--  I am a CSE undergraduate student at BRAC University,Bangladesh
+-  I am a CSE undergraduate student at [BRAC University,Bangladesh](https://www.bracu.ac.bd)
 -  Currently I am learning Python, Go, OpevCv, Audrino, Deep Learning
 -  Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 -  Junior Contributor at [BRACU DICHARI](https://github.com/BRACU-DICHARI)
