@@ -31,11 +31,7 @@
 
 [![Mouly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&show_icons=true&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <!--[Mouly22's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&theme=xcode)>
-
-
-
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
+ ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/)
 [![Kaggle Badge](https://img.shields.io/badge/-Umme_Abira_Azmary-20BEFF?style=plastic&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/abiraazmary/)](https://www.kaggle.com/abiraazmary)
@@ -43,3 +39,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-AbiraaMouly-informational?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AbiraaMouly/)](https://twitter.com/AbiraaMouly/)
 [![Kaggle Badge](https://img.shields.io/badge/-_abiraazmary_-ff69b4?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_abiraazmary_//)](https://www.instagram.com/_abiraazmary_/)
 [![Dev.to Badge](https://img.shields.io/badge/-@abiraazmary22-black?style=plastic&labelColor=white&logo=DEV.to&link=https://dev.to/mouly22/)](https://dev.to/mouly22)
+ 
+ <!--[Mouly22's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mouly22&theme=xcode)>
+
+
+
+
