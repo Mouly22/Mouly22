@@ -10,19 +10,6 @@
 
 
 
-### Technologies and tools I use: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-
-
 <h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "30"> My GitHub Stats </h2>
 
 <p>
