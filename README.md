@@ -7,6 +7,7 @@
 -  Currently I am learning Python, Go, OpevCv, Audrino, Deep Learning
 -  Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 -  Junior Contributor at [BRACU DICHARI](https://github.com/BRACU-DICHARI)
+-  Software and Robotics enthusiast
 
 
 
