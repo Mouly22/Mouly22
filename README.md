@@ -9,6 +9,8 @@
 -  Junior Contributor at [BRACU DICHARI](https://github.com/BRACU-DICHARI)
 -  Software and Robotics enthusiast
 
+<h2> Achievements </h2>
+- First Runner-Up of NASA SPACE APP CHALLENGE, 2022
 
 
 <h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "30"> My GitHub Stats </h2>
