@@ -10,8 +10,7 @@
 -  Software and Robotics enthusiast
 
 <h2> Achievements </h2>
-- First Runner-Up of [NASA SPACE APP CHALLENGE, 2022](https://2022.spaceappschallenge.org/challenges/2022-challenges/twinkle-twinkle-little-star/teams/team-chayapoth/project?fbclid=IwAR2979HmPZ59fI9Mxdo7s2K7NSa9SsfR7DmwRkPRnEebLUmNwRyM7GeAA50)
-- ok
+- First Runner-Up of NASA SPACE APP CHALLENGE, 2022
 
 
 
