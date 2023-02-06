@@ -5,8 +5,6 @@
 
 -  I am a CSE undergraduate student at [BRAC University,Bangladesh](https://www.bracu.ac.bd)
 -  Currently I am learning Python, Go, OpevCv, Audrino, Deep Learning
--  Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
--  Junior Contributor at [BRACU DICHARI](https://github.com/BRACU-DICHARI)
 - First Runner-Up of [NASA SPACE APP CHALLENGE, 2022](https://2022.spaceappschallenge.org/challenges/2022-challenges/twinkle-twinkle-little-star/teams/team-chayapoth/project?fbclid=IwAR2979HmPZ59fI9Mxdo7s2K7NSa9SsfR7DmwRkPRnEebLUmNwRyM7GeAA50)
 - Get my [CV](https://github.com/Mouly22/Mouly22/blob/main/Abira_CV.pdf)
 
