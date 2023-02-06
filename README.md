@@ -4,7 +4,7 @@
 <h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 -  I am a CSE undergraduate student at [BRAC University,Bangladesh](https://www.bracu.ac.bd)
--  Currently I am learning Python, Go, OpevCv, Audrino, Deep Learning
+-  Currently I am learning Python, Go, Deep Learning, OpevCv, Audrino, ROS
 - First Runner-Up of [NASA SPACE APP CHALLENGE, 2022](https://2022.spaceappschallenge.org/challenges/2022-challenges/twinkle-twinkle-little-star/teams/team-chayapoth/project?fbclid=IwAR2979HmPZ59fI9Mxdo7s2K7NSa9SsfR7DmwRkPRnEebLUmNwRyM7GeAA50)
 - Get my [CV](https://github.com/Mouly22/Mouly22/blob/main/Abira_CV.pdf)
 
