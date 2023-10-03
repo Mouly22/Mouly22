@@ -16,8 +16,6 @@
 <p>
   <a align = "left" href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&theme=radical" width="450"></a> <a align="right"> <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' alt="Computer and girl" width = '300' align = 'center'>
 </p>
-
-[![Mouly's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mouly22&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 
