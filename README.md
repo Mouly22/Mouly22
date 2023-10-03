@@ -3,11 +3,10 @@
 
 <h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
--  I am a CSE undergraduate student at [BRAC University,Bangladesh](https://www.bracu.ac.bd)
--  Currently I am learning Python, Go, Deep Learning, OpevCv, Audrino, ROS
-- First Runner-Up of [NASA SPACE APP CHALLENGE, 2022](https://2022.spaceappschallenge.org/challenges/2022-challenges/twinkle-twinkle-little-star/teams/team-chayapoth/project?fbclid=IwAR2979HmPZ59fI9Mxdo7s2K7NSa9SsfR7DmwRkPRnEebLUmNwRyM7GeAA50)
-- Get my [CV](https://github.com/Mouly22/Mouly22/blob/main/Abira_CV.pdf)
-
+- a passionate 3rd-year Computer Science student with a knack for problem-solving and a love for building software projects. My journey in the world of technology has taken me from interactive problem-solving to the exciting realms of hardware and robotics.
+-🤖 I'm deeply passionate about exploring the intersection of software and hardware, and I'm always eager to collaborate on innovative projects that push the boundaries of what's possible.
+-🔬 Currently, my focus is on research, and I have a particular interest in Natural Language Processing (NLP). I believe that the power of language and AI can drive transformative changes in various fields.
+-🚀 Join me in my coding adventures, explore my projects, and let's connect to create something amazing together!
 
 
 
