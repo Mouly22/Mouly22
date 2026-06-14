@@ -1,11 +1,16 @@
- <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
- I am Umme Abira Azmary
- Find me here: https://github.com/abira-ai-buddy</h1>
+ <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-<h2> About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<h3>I am Umme Abira Azmary</h3>
 
-a passionate final year CSE student with a knack for problem-solving and a love for building software projects. My journey in the world of technology has taken me from interactive problem-solving to the exciting realms of hardware and robotics. I'm deeply passionate about exploring the intersection of software and hardware, and I'm always eager to collaborate on innovative projects that push the boundaries of what's possible. Currently, my focus is on research, and I have a particular interest in Natural Language Processing (NLP). I believe that the power of language and AI can drive transformative changes in various fields. Join me in my coding adventures, explore my projects, and let's connect to create something amazing together!
+📫 Find me here: <a href="https://github.com/abira-ai-buddy">github.com/abira-ai-buddy</a>
 
+<h2>About me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+
+I'm a **Junior Software Engineer** with a knack for problem-solving and a love for building software that actually ships. My work spans **frontend development**, **AI agent engineering** (LLM-integrated pipelines), and **workflow automation with n8n** — turning messy problems into clean, working products.
+
+Alongside engineering, I'm passionate about research, with a particular interest in **Natural Language Processing (NLP)** for low-resource languages like Bangla. I believe the power of language and AI can drive transformative change across many fields.
+
+Explore my projects, and let's connect to build something amazing together! ✨
 
 
 <h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "30"> My GitHub Stats </h2>
