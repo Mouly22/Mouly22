@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=560&lines=Umme+Abira+Azmary;Software+Engineer+%26+NLP+Researcher;LLM+Systems+%7C+AI-Native+Products;NASA+Space+Apps+Runner-Up+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+NLP+%26+LLM+Systems;Multilingual+LLMs+%26+Knowledge+Conflicts;Building+AI-native+products+%F0%9F%8C%B8" alt="Typing SVG" />
 
-<p>
-<b>Software Engineer · NLP & LLM Systems</b><br/>
-AI Buddy Catalyst Labs, Ottawa &nbsp;·&nbsp; Previously Yugen Group, Birmingham
-</p>
+<p><b>Software Engineer · NLP & LLM Systems</b><br/>
+AI Buddy Catalyst Labs, Ottawa · Previously Yugen Group, Birmingham</p>
 
 <p>
 <a href="https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/"><img src="https://img.shields.io/badge/LinkedIn-ec4899?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://portfolio-moulys-projects-b4e94a71.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-f472b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://abiraazmary.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f472b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://pypi.org/user/Mouly22/"><img src="https://img.shields.io/badge/PyPI-fda4af?style=for-the-badge&logo=pypi&logoColor=white" /></a>
 <a href="mailto:abiraazmary22@gmail.com"><img src="https://img.shields.io/badge/Gmail-f9a8d4?style=for-the-badge&logo=gmail&logoColor=9d174d" /></a>
 </p>
@@ -32,7 +30,7 @@ me = {
 }
 ```
 
-Currently at **AI Buddy Catalyst Labs** (Ottawa), building AI-native SaaS and client products. Previously at **Yugen Group** (Birmingham) where I shipped a RAG system, n8n pipeline chatbot, and full authentication flows for their product Octobra!n.
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Currently at AI Buddy Catalyst Labs (Ottawa), building AI-native SaaS and client products. Previously at Yugen Group (Birmingham) where I shipped a RAG system, n8n pipeline chatbot, and full authentication flows for their product Octobra!n.
 
 I also do research — my published paper benchmarks how multilingual LLMs handle knowledge conflicts, evaluating BanglaT5, mT5, Qwen-2.5, DeepSeek-R1, and LLaMA-3.3 on parametric vs. contextual reliability.
 
@@ -44,25 +42,21 @@ I also do research — my published paper benchmarks how multilingual LLMs handl
 <tr>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/-1st%20Runner--Up-ec4899?style=flat-square&logoColor=white" /><br>
-<b>NASA Space Apps Challenge 2022</b><br>
-<sub>Global hackathon</sub>
+<b>NASA Space Apps Challenge 2022</b><br><sub>Global hackathon</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/-Finalist-f472b6?style=flat-square&logoColor=white" /><br>
-<b>National AI Hackathon 2025</b><br>
-<sub>Top 8 of 102 teams</sub>
+<b>National AI Hackathon 2025</b><br><sub>Top 8 of 102 teams</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/-CGPA%203.94%2F4.0-fda4af?style=flat-square&logoColor=white" /><br>
-<b>Academic Excellence</b><br>
-<sub>University of Birmingham</sub>
+<b>Academic Excellence</b><br><sub>University of Birmingham</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/-6%C3%97%20VC%20List-f9a8d4?style=flat-square&logoColor=9d174d" /><br>
-<b>Vice Chancellor's List</b><br>
-<sub>6 consecutive semesters</sub>
+<b>Vice Chancellor's List</b><br><sub>6 consecutive semesters</sub>
 </td>
 </tr>
 </table>
@@ -71,7 +65,7 @@ I also do research — my published paper benchmarks how multilingual LLMs handl
 
 ## 💻 Featured project
 
-### [bangla-text-toolkit](https://github.com/Mouly22/bangla-text-toolkit) &nbsp; [![PyPI version](https://badge.fury.io/py/bangla-text-toolkit.svg)](https://badge.fury.io/py/bangla-text-toolkit) [![CI](https://github.com/Mouly22/bangla-text-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/Mouly22/bangla-text-toolkit/actions) ![License: MIT](https://img.shields.io/badge/License-MIT-fda4af.svg)
+### [bangla-text-toolkit](https://github.com/Mouly22/bangla-text-toolkit) &nbsp; ![PyPI](https://img.shields.io/pypi/v/bangla-text-toolkit?color=ec4899) &nbsp; ![License: MIT](https://img.shields.io/badge/License-MIT-fda4af.svg)
 
 Production-grade Bangla NLP preprocessing in Python. Unicode normalization, tokenization, text cleaning, stopword filtering. Zero dependencies.
 
@@ -87,30 +81,32 @@ Built because Python's `\w` doesn't match Bangla combining characters — most N
 
 ---
 
-## 🛠 Stack
+## 🛠 Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 **NLP & ML**
 
-![Python](https://img.shields.io/badge/Python-ec4899?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-f472b6?style=flat-square&logo=huggingface&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-fda4af?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-f9a8d4?style=flat-square&logo=langchain&logoColor=9d174d)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ec4899?style=flat-square&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ec4899?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-f472b6?style=for-the-badge&logo=huggingface&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-fda4af?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f9a8d4?style=for-the-badge&logo=scikitlearn&logoColor=9d174d)
+![NLTK](https://img.shields.io/badge/NLTK-ec4899?style=for-the-badge&logoColor=white)
 
 **Engineering**
 
-![Next.js](https://img.shields.io/badge/Next.js-f472b6?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-fda4af?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f9a8d4?style=flat-square&logo=postgresql&logoColor=9d174d)
-![Docker](https://img.shields.io/badge/Docker-ec4899?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-f472b6?style=flat-square&logo=github-actions&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-f472b6?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-fda4af?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-f9a8d4?style=for-the-badge&logo=fastapi&logoColor=9d174d)
+![n8n](https://img.shields.io/badge/n8n-ec4899?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-f472b6?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width="30">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&bg_color=fff0f7&text_color=9d174d&icon_color=ec4899&border_color=f9a8d4&title_color=be185d" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&bg_color=fff0f7&text_color=9d174d&icon_color=ec4899&border_color=f9a8d4&title_color=be185d" width="55%" />
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Computer and girl" width="35%" />
 </p>
 
 <p align="center">
