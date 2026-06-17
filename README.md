@@ -45,18 +45,6 @@ I also do research — my published paper benchmarks how multilingual LLMs handl
 <sub>Top 8 of 102 teams</sub>
 </td>
 </tr>
-<tr>
-<td valign="top">
-<img src="https://img.shields.io/badge/-Published%202025-10b981?style=flat-square" /><br>
-<b>QA Generation for Low-Resource Bangla</b><br>
-<sub>LLM knowledge conflict analysis across 5 models</sub>
-</td>
-<td valign="top">
-<img src="https://img.shields.io/badge/-Robotics-ef4444?style=flat-square" /><br>
-<b>Autonomous Rescue Rover</b><br>
-<sub>YOLOv5 · OpenCV · Jetson Xavier</sub>
-</td>
-</tr>
 </table>
 
 ---
