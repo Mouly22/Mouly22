@@ -14,7 +14,7 @@ AI Buddy Catalyst Labs, Ottawa &nbsp;·&nbsp; Previously Yugen Group, Birmingham
 <a href="mailto:abiraazmary22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mouly22&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mouly22&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS&base=2000)
 
 </div>
 
