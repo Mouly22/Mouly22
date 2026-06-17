@@ -6,10 +6,10 @@
 AI Buddy Catalyst Labs, Ottawa · Previously Yugen Group, Birmingham</p>
 
 <p>
-<a href="https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/"><img src="https://img.shields.io/badge/LinkedIn-ec4899?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://abiraazmary.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f472b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://pypi.org/user/Mouly22/"><img src="https://img.shields.io/badge/PyPI-fda4af?style=for-the-badge&logo=pypi&logoColor=white" /></a>
-<a href="mailto:abiraazmary22@gmail.com"><img src="https://img.shields.io/badge/Gmail-f9a8d4?style=for-the-badge&logo=gmail&logoColor=9d174d" /></a>
+<a href="https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://abiraazmary.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://pypi.org/user/Mouly22/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+<a href="mailto:abiraazmary22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mouly22&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS&base=2000)
@@ -95,7 +95,7 @@ Built because Python's `\w` doesn't match Bangla combining characters — most N
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-099688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
