@@ -45,6 +45,18 @@ I also do research — my published paper benchmarks how multilingual LLMs handl
 <sub>Top 8 of 102 teams</sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/-CGPA%203.94%2F4.0-22c55e?style=flat-square" /><br>
+<b>Academic Excellence</b><br>
+<sub>University of Birmingham</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/-6×%20VC%20List-3b82f6?style=flat-square" /><br>
+<b>Vice Chancellor's List</b><br>
+<sub>6 consecutive semesters</sub>
+</td>
+</tr>
 </table>
 
 ---
