@@ -85,19 +85,19 @@ Built because Python's `\w` doesn't match Bangla combining characters — most N
 
 **NLP & ML**
 
-![Python](https://img.shields.io/badge/Python-ec4899?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-f472b6?style=for-the-badge&logo=huggingface&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-fda4af?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-f9a8d4?style=for-the-badge&logo=scikitlearn&logoColor=9d174d)
-![NLTK](https://img.shields.io/badge/NLTK-ec4899?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logoColor=white)
 
 **Engineering**
 
-![Next.js](https://img.shields.io/badge/Next.js-f472b6?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-fda4af?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-f9a8d4?style=for-the-badge&logo=fastapi&logoColor=9d174d)
-![n8n](https://img.shields.io/badge/n8n-ec4899?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-f472b6?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-099688?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
