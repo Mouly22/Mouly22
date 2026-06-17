@@ -52,7 +52,7 @@ I also do research — my published paper benchmarks how multilingual LLMs handl
 <tr>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/-CGPA%203.94%2F4.0-fda4af?style=flat-square&logoColor=white" /><br>
-<b>Academic Excellence</b><br><sub>University of Birmingham</sub>
+<b>Academic Excellence</b><br><sub>BRAC University, Dhaka</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/-6%C3%97%20VC%20List-f9a8d4?style=flat-square&logoColor=9d174d" /><br>
