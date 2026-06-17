@@ -30,16 +30,6 @@ I also do research — my published paper benchmarks how multilingual LLMs handl
 
 ## Highlights
 
-<div align="center">
-
-![CGPA](https://img.shields.io/badge/CGPA-3.94%20%2F%204.00-7c3aed?style=flat-square)
-&nbsp;&nbsp;
-![VC List](https://img.shields.io/badge/Vice%20Chancellor%27s%20List-6%C3%97-7c3aed?style=flat-square)
-&nbsp;&nbsp;
-![Scholarship](https://img.shields.io/badge/Merit%20Scholarship-50%25-7c3aed?style=flat-square)
-
-</div>
-
 <br>
 
 <table width="100%">
