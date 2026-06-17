@@ -42,7 +42,7 @@ I also do research — my published paper benchmarks how multilingual LLMs handl
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/-1st%20Runner--Up-a855f7?style=flat-square" /><br>
