@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Umme+Abira+Azmary;NLP+%26+LLM+Systems+Engineer;Low-Resource+Language+AI;NASA+Space+Apps+Runner-Up+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Umme+Abira+Azmary;Software+Engineer+%26+NLP+Researcher;LLM+Systems+%7C+AI-Native+Products;NASA+Space+Apps+Runner-Up+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
   <b>Software Engineer · NLP & LLM Systems</b><br/>
@@ -20,12 +20,11 @@
 
 ---
 
-I build NLP systems and AI-native products. My focus is **low-resource languages** — specifically Bengali, where standard tools silently break at the Unicode layer and most benchmarks don't bother to test.
+I build NLP and LLM systems, and ship AI-native products that work in production. My work spans full-stack engineering, RAG pipelines, AI chatbots, and open-source NLP tooling.
 
-My published research examines how multilingual LLMs handle conflicts between parametric and contextual knowledge — evaluated across BanglaT5, mT5, Qwen-2.5, DeepSeek-R1, and LLaMA-3.3. The reliability gaps are larger than reported benchmarks suggest.
+Currently at **AI Buddy Catalyst Labs** (Ottawa), building AI-native SaaS and client products. Previously at **Yugen Group** (Birmingham) where I shipped a RAG system, n8n pipeline chatbot, and full authentication flows for their product Octobra!n.
 
-At work: RAG pipelines, AI chatbots, full-stack SaaS products.
-In public: NLP tooling that handles the edge cases production systems actually hit.
+I also do research — my published paper benchmarks how multilingual LLMs handle knowledge conflicts, evaluating BanglaT5, mT5, Qwen-2.5, DeepSeek-R1, and LLaMA-3.3 on parametric vs. contextual reliability.
 
 ---
 
@@ -33,7 +32,7 @@ In public: NLP tooling that handles the edge cases production systems actually h
 
 🥈 &nbsp;**First Runner-Up** — NASA Space Apps Challenge 2022
 🏆 &nbsp;**Finalist** — National AI Hackathon 2025, Top 8 of 102 teams
-📄 &nbsp;**Published** — *QA Generation for Low-Resource Bangla* (2025): parametric vs. contextual knowledge reliability across 5 multilingual LLMs
+📄 &nbsp;**Published** — *QA Generation for Low-Resource Bangla* (2025): LLM knowledge conflict analysis across 5 models
 🤖 &nbsp;Built autonomous rover systems for rescue missions — YOLOv5, OpenCV, Jetson Xavier
 🎓 &nbsp;CGPA 3.94 / 4.00 &nbsp;·&nbsp; 6× Vice Chancellor's List &nbsp;·&nbsp; 50% Merit Scholarship
 
