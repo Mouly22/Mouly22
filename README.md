@@ -110,8 +110,7 @@ Built because Python's `\w` doesn't match Bangla combining characters — most N
 ## 📊 GitHub stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&bg_color=fff0f7&text_color=9d174d&icon_color=ec4899&border_color=f9a8d4&title_color=be185d" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Mouly22&theme=radical&hide_border=false&border=f9a8d4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&bg_color=fff0f7&text_color=9d174d&icon_color=ec4899&border_color=f9a8d4&title_color=be185d" width="70%" />
 </p>
 
 <p align="center">
