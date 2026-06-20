@@ -26,7 +26,7 @@ me = {
     "research"  : "Multilingual LLMs & knowledge conflict detection",
     "stack"     : ["Python", "HuggingFace", "PyTorch", "Next.js", "RAG"],
     "building"  : "bangla-text-toolkit · AI-native SaaS products",
-    "fun_fact"  : "Python's \\w doesn't match Bangla — so I fixed it 🌸",
+   
 }
 ```
 
