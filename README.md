@@ -100,10 +100,6 @@ Shipped a RAG system, n8n pipeline chatbot, and full authentication flows for Oc
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mouly22&bg_color=0d1117&color=c084fc&line=a855f7&point=c084fc&area=true&border_color=a855f7" width="96%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mouly22&theme=radical&margin-w=12&column=6" />
-</p>
-
 ---
 
 <div align="center">
