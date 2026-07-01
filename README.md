@@ -91,13 +91,13 @@ Shipped a RAG system, n8n pipeline chatbot, and full authentication flows for Oc
 ## 📊 GitHub stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mouly22&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=Mouly22&hide_border=true&border_radius=8&background=fff0f7&ring=ec4899&fire=be185d&currStreakLabel=be185d&sideLabels=9d174d&dates=be185d&currStreakNum=9d174d&sideNums=9d174d" width="55%" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding girl" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mouly22&bg_color=0d1117&color=c084fc&line=a855f7&point=c084fc&area=true&border_color=a855f7" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mouly22&bg_color=fff0f7&color=be185d&line=ec4899&point=be185d&area=true&border_color=f9a8d4" width="96%" />
 </p>
 
 ---
