@@ -91,21 +91,17 @@ Shipped a RAG system, n8n pipeline chatbot, and full authentication flows for Oc
 ## 📊 GitHub stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mouly22&show_icons=true&count_private=true&bg_color=0d1117&text_color=a855f7&icon_color=a855f7&border_color=a855f7&title_color=c084fc" width="55%" />
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding girl" width="35%" />
+  <img src="https://streak-stats.demolab.com?user=Mouly22&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280" width="55%" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding girl" width="35%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouly22&layout=compact&bg_color=0d1117&text_color=a855f7&border_color=a855f7&title_color=c084fc&langs_count=6" width="40%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mouly22&bg_color=0d1117&color=c084fc&line=a855f7&point=c084fc&area=true&border_color=a855f7" width="96%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mouly22&bg_color=0d1117&color=c084fc&line=a855f7&point=c084fc&area=true&border_color=a855f7" width="96%" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mouly22&theme=radical&margin-w=12&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mouly22&theme=radical&margin-w=12&column=6" />
 </p>
 
 ---
