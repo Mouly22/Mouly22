@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="400" />
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="She Codes" width="400" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Umme+Abira+Azmary;NLP+%26+LLM+Systems+Engineer;Building+AI-Native+Products;NASA+Space+Apps+Runner-Up+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -11,12 +11,12 @@
 
 <p>
   <a href="https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://abiraazmary.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-moulys-projects-b4e94a71.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://pypi.org/user/Mouly22/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
   <a href="mailto:abiraazmary22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mouly22&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarim.com/ghpvc/?username=Mouly22&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -62,10 +62,10 @@ I build NLP systems and AI-native products — RAG pipelines, LLM evaluations, f
 
 ## 🧭 Where I've worked
 
-**AI Buddy Catalyst Labs, Ottawa** — Software Engineer · NLP & LLM Systems *(2025 – present)*
+**AI Buddy Catalyst Labs, Ottawa** — Software Engineer · NLP & LLM Systems *(2025 – present)*  
 Building AI chatbots, RAG pipelines, and full-stack SaaS products for clients. Shipped authentication flows, n8n automation pipelines, and AI-native features.
 
-**Yugen Group, Birmingham** — Software Engineer *(prior)*
+**Yugen Group, Birmingham** — Software Engineer *(prior)*  
 Shipped a RAG system, n8n pipeline chatbot, and full authentication flows for Octobra!n.
 
 ---
@@ -90,11 +90,10 @@ Shipped a RAG system, n8n pipeline chatbot, and full authentication flows for Oc
 
 ---
 
-## 📊 GitHub stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+## 📊 GitHub stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mouly22&hide_border=true&border_radius=8&background=fff0f7&ring=ec4899&fire=be185d&currStreakLabel=be185d&sideLabels=9d174d&dates=be185d&currStreakNum=9d174d&sideNums=9d174d" width="55%" />
-  &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding girl" width="35%" />
 </p>
 
