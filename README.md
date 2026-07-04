@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="She Codes" width="400" />
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="She Codes" width="500" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Umme+Abira+Azmary;NLP+%26+LLM+Systems+Engineer;Building+AI-Native+Products;NASA+Space+Apps+Runner-Up+%F0%9F%9A%80" alt="Typing SVG" />
 
