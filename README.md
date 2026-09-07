@@ -7,8 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=NLP+%26+LLM+Systems+Engineer;Building+AI-Native+Products;NASA+Space+Apps+Runner-Up+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
-  <b>Software Engineer · NLP & LLM Systems</b><br/>
-  Ottawa &nbsp;·&nbsp; Previously Birmingham
+  <b>Software & AI Engineer · NLP & LLM Systems</b>
 </p>
 
 <p>
