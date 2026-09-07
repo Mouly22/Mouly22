@@ -4,11 +4,11 @@
   <img src="https://raw.githubusercontent.com/Mouly22/Mouly22/main/assets/umme_abira_github_bio.gif" alt="Umme Abira Azmary" width="700" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Umme+Abira+Azmary;NLP+%26+LLM+Systems+Engineer;Building+AI-Native+Products;NASA+Space+Apps+Runner-Up+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=NLP+%26+LLM+Systems+Engineer;Building+AI-Native+Products;NASA+Space+Apps+Runner-Up+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
   <b>Software Engineer · NLP & LLM Systems</b><br/>
-  AI Buddy Catalyst Labs, Ottawa &nbsp;·&nbsp; Previously Yugen Group, Birmingham
+  Ottawa &nbsp;·&nbsp; Previously Birmingham
 </p>
 
 <p>
