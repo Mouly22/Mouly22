@@ -55,7 +55,6 @@ I build NLP systems and AI-native products - RAG pipelines, LLM evaluations, ful
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| 🔒 [**WordVault**](https://github.com/Mouly22/wordvault) *(in progress)* | GRE vocab PWA - 333 words, spaced repetition, flashcard review, exam mode with result history | Next.js · Tailwind · Framer Motion |
 | 🌿 [**bangla-text-toolkit**](https://github.com/Mouly22/bangla-text-toolkit) | Production-grade Bangla NLP preprocessing - normalization, tokenization, stemming, keyword extraction. Zero dependencies. Published on PyPI. | Python · PyPI |
 | 🎭 [**ToneShift**](https://github.com/Mouly22/toneshift) *(in progress)* | Paste any text, shift its tone in real time - Gen-Z, Corporate, Shakespearean and more, via 4 AI-powered sliders. PWA. | Next.js · Groq · Llama 3 |
 
