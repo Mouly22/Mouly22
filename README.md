@@ -23,7 +23,7 @@
 
 ---
 
-I build NLP systems and AI-native products — RAG pipelines, LLM evaluations, full-stack web apps. Currently at AI Buddy Catalyst Labs (Ottawa), shipping AI features for clients. My submitted research benchmarks how multilingual LLMs handle conflicts between parametric and contextual knowledge across 5 models. In public: open-source NLP tooling + consumer apps built with Next.js and LLMs.
+I build NLP systems and AI-native products - RAG pipelines, LLM evaluations, full-stack web apps. Currently at AI Buddy Catalyst Labs (Ottawa), shipping AI features for clients. My submitted research benchmarks how multilingual LLMs handle conflicts between parametric and contextual knowledge across 5 models. In public: open-source NLP tooling + consumer apps built with Next.js and LLMs.
 
 ---
 
@@ -34,7 +34,7 @@ I build NLP systems and AI-native products — RAG pipelines, LLM evaluations, f
 | 🤖 LLM systems & evaluation | Benchmarking multilingual LLMs, parametric vs contextual knowledge conflict detection |
 | 🔗 RAG pipelines | Retrieval-augmented generation with vector DBs, shipped for real clients |
 | 🛠️ NLP tooling | Open-source preprocessing libraries that handle edge cases production pipelines actually hit |
-| 🌐 AI-native web apps | Full-stack products built with Next.js + LLMs + PWA — things people actually use daily |
+| 🌐 AI-native web apps | Full-stack products built with Next.js + LLMs + PWA - things people actually use daily |
 | 🤖 AI chatbots & automation | n8n pipelines, chatbots, and agentic workflows for SaaS clients |
 
 ---
@@ -43,10 +43,10 @@ I build NLP systems and AI-native products — RAG pipelines, LLM evaluations, f
 
 | | |
 |--|--|
-| 🥈 **First Runner-Up** | NASA International Space Apps Challenge 2022 — Global Nominee |
-| 🏅 **Finalist** | National AI Hackathon 2025 — Top 8 of 102 teams |
-| 📄 **Submitted** | *QA Generation for Low-Resource Bangla* (ACL Rolling Review 2025) — knowledge reliability across BanglaT5, mT5, Qwen-2.5, DeepSeek-R1, LLaMA-3.3 |
-| 📦 **Published on PyPI** | `bangla-text-toolkit` — production-grade Bangla NLP preprocessing library |
+| 🥈 **First Runner-Up** | NASA International Space Apps Challenge 2022 - Global Nominee |
+| 🏅 **Finalist** | National AI Hackathon 2025 - Top 8 of 102 teams |
+| 📄 **Submitted** | *QA Generation for Low-Resource Bangla* (ACL Rolling Review 2025) - knowledge reliability across BanglaT5, mT5, Qwen-2.5, DeepSeek-R1, LLaMA-3.3 |
+| 📦 **Published on PyPI** | `bangla-text-toolkit` - production-grade Bangla NLP preprocessing library |
 | 🎓 **CGPA 3.94 / 4.00** | 6× Vice Chancellor's List · 50% Merit Scholarship · BRAC University |
 
 ---
@@ -55,18 +55,18 @@ I build NLP systems and AI-native products — RAG pipelines, LLM evaluations, f
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| 🔒 [**WordVault**](https://github.com/Mouly22/wordvault) *(in progress)* | GRE vocab PWA — 333 words, spaced repetition, flashcard review, exam mode with result history | Next.js · Tailwind · Framer Motion |
-| 🌿 [**bangla-text-toolkit**](https://github.com/Mouly22/bangla-text-toolkit) | Production-grade Bangla NLP preprocessing — normalization, tokenization, stemming, keyword extraction. Zero dependencies. Published on PyPI. | Python · PyPI |
-| 🎭 [**ToneShift**](https://github.com/Mouly22/toneshift) *(in progress)* | Paste any text, shift its tone in real time — Gen-Z, Corporate, Shakespearean and more, via 4 AI-powered sliders. PWA. | Next.js · Groq · Llama 3 |
+| 🔒 [**WordVault**](https://github.com/Mouly22/wordvault) *(in progress)* | GRE vocab PWA - 333 words, spaced repetition, flashcard review, exam mode with result history | Next.js · Tailwind · Framer Motion |
+| 🌿 [**bangla-text-toolkit**](https://github.com/Mouly22/bangla-text-toolkit) | Production-grade Bangla NLP preprocessing - normalization, tokenization, stemming, keyword extraction. Zero dependencies. Published on PyPI. | Python · PyPI |
+| 🎭 [**ToneShift**](https://github.com/Mouly22/toneshift) *(in progress)* | Paste any text, shift its tone in real time - Gen-Z, Corporate, Shakespearean and more, via 4 AI-powered sliders. PWA. | Next.js · Groq · Llama 3 |
 
 ---
 
 ## 🧭 Where I've worked
 
-**AI Buddy Catalyst Labs, Ottawa** — Software Engineer · NLP & LLM Systems *(2025 – present)*  
+**AI Buddy Catalyst Labs, Ottawa** - Software Engineer · NLP & LLM Systems *(2025 – present)*  
 Building AI chatbots, RAG pipelines, and full-stack SaaS products for clients. Shipped authentication flows, n8n automation pipelines, and AI-native features.
 
-**Yugen Group, Birmingham** — Software Engineer *(prior)*  
+**Yugen Group, Birmingham** - Software Engineer *(prior)*  
 Shipped a RAG system, n8n pipeline chatbot, and full authentication flows for Octobra!n.
 
 ---
@@ -106,6 +106,6 @@ Shipped a RAG system, n8n pipeline chatbot, and full authentication flows for Oc
 
 <div align="center">
 <b>Have something to build?</b><br/>
-I enjoy turning AI ideas into things people actually use — agents, NLP tools, full-stack apps. Feel free to reach out.<br/><br/>
+I enjoy turning AI ideas into things people actually use - agents, NLP tools, full-stack apps. Feel free to reach out.<br/><br/>
 <a href="mailto:abiraazmary22@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
